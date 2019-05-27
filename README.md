@@ -33,6 +33,7 @@ To add SeasideGenerationTester to your baseline just add this:
     spec
     	baseline: 'SeasideGenerationTester'
     	with: [ spec repository: 'github://DuneSt/SeasideGenerationTester:v1.x.x/src' ]
+```
 		
 ## Getting started
 
